@@ -32,6 +32,7 @@ public class armstrong{
 
             if (ans == i) { // Check if the calculated value equals the original number
                 System.out.println(i); // Print the Armstrong number
+                System.out.println("sdhgcfsdjfgh");                
             }
         }
     }
